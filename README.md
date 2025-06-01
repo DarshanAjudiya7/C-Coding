@@ -68,7 +68,9 @@ gcc Basics/hello_world.c -o hello
 🧑‍💻 Author
 
 Darshan Ajudiya
-📧 darshanajudiya7@gmail.com
+
+📧 darshanajudiya7@gmail.com 
+
 🔗 GitHub Profile
 
 🤝 Contributing
@@ -89,11 +91,6 @@ Contributions are welcome! If you have C programs or improvements to suggest, fe
 
 5. Create a Pull Request
 
-
-
-📝 License
-
-This repository is open-source and available under the MIT License.
 
 
 ---
