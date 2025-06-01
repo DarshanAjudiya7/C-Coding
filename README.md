@@ -1,66 +1,81 @@
 
+<h1 align="center">📘 C-Coding Repository</h1>
 
-# 📘 C-Coding
+<p align="center">
+  🚀 Master C Programming from Basics to Practice Sets 💻<br>
+  A complete chapter-wise & problem-solving collection in C Language.
+</p>
 
-This repository is a collection of C programming exercises, practice sets, and examples. It is designed to help beginners and intermediate learners strengthen their understanding of C programming through structured chapters and hands-on problems.
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/DarshanAjudiya7/C-Coding?color=blue" />
+  <img src="https://img.shields.io/github/repo-size/DarshanAjudiya7/C-Coding" />
+  <img src="https://img.shields.io/github/last-commit/DarshanAjudiya7/C-Coding" />
+</p>
 
 ---
 
-## 🔍 Overview
+## 📂 Repository Structure
 
-- **Language**: C
-- **Content Includes**:
-  - `Chapter 1` to `Chapter 4`: Conceptual programs based on topics
-  - `Ch 1 Practice Set` to `Ch 3 Practice Set`: Exercises and questions
-  - `76 Lessons`: Short and practical code lessons
+C-Coding/ │ ├── Chapter 1/ ├── Chapter 2/ ├── Chapter 3/ ├── Chapter 4/ ├── Ch 1 Practice Set/ ├── Ch 2 Practice Set/ ├── Ch 3 Practice Set/ └── 76 Lessons/
+
+Each folder contains beginner-to-intermediate level programs designed to build a strong foundation in C.
 
 ---
 
 ## 🚀 Getting Started
 
-Prerequisites
+### ✅ Prerequisites
 
-- A C compiler (e.g., GCC)
-- A code editor (e.g., VS Code, Code::Blocks)
+- C Compiler (like GCC)
+- Code Editor (VS Code, Code::Blocks, Turbo C++ etc.)
 
-Clone the Repository
+### 🔧 Clone and Run
 
 ```bash
 git clone https://github.com/DarshanAjudiya7/C-Coding.git
-
-Run a Program
-
 cd C-Coding/Chapter\ 1
-gcc your_program.c -o your_program
-./your_program
+gcc program_name.c -o output
+./output
 
 
 ---
 
-🧰 Features
+📌 Features
 
-✅ Organized chapter-wise code files
+✅ Chapter-wise organization for structured learning
 
-✅ Practical programming exercises
+✅ Practice sets for hands-on coding
 
-✅ Beginner-friendly code examples
+✅ Real-world examples to build logic
 
-✅ Good for practice and revision
+✅ Ideal for students, beginners & job preparation
 
+
+
+---
+
+📸 Screenshots
+
+Coming soon! (You can add screenshots or terminal output examples here)
 
 
 ---
 
 🤝 Contributing
 
-Contributions are welcome! If you'd like to improve the content or add new programs, please fork the repository and submit a pull request. For major changes, open an issue first to discuss what you'd like to change.
+Contributions, suggestions, and new program additions are warmly welcome!
+
+1. Fork this repo
+2. Create a new branch
+3. Commit your changes
+4. Open a Pull Request
 
 
 ---
 
 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 
 ---
@@ -69,15 +84,18 @@ This project is licensed under the MIT License.
 
 Darshan Ajudiya
 
-GitHub: @DarshanAjudiya7
+🌐 GitHub Profile
+
+📫 Feel free to connect and suggest improvements!
 
 
 
 ---
 
-⭐️ If you find this repository helpful, don’t forget to star it!
+<p align="center">
+  ⭐️ If you like this project, give it a star!
+</p>
+```
 
----
 
-You can copy and paste this Markdown content into your `README.md` file in the root of your repository. Let me know if you'd like to add a **logo, badges, or images** for an even more attractive look!
 
