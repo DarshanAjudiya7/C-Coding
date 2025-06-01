@@ -18,12 +18,12 @@ This repository is a collection of C programming exercises, practice sets, and e
 
 ## 🚀 Getting Started
 
-### Prerequisites
+Prerequisites
 
 - A C compiler (e.g., GCC)
 - A code editor (e.g., VS Code, Code::Blocks)
 
-### Clone the Repository
+Clone the Repository
 
 ```bash
 git clone https://github.com/DarshanAjudiya7/C-Coding.git
