@@ -46,23 +46,23 @@ gcc Basics/hello_world.c -o hello
 
 📚 Topics Covered
 
-Data Types & Variables
+1. Data Types & Variables
 
-Input/Output Operations
+2. Input/Output Operations
 
-Control Statements
+3. Control Statements
 
-Functions
+4. Functions
 
-Arrays & Strings
+5. Arrays & Strings
 
-Pointers
+6. Pointers
 
-Structures & Unions
+7. Structures & Unions
 
-File Handling
+8. File Handling
 
-Mini Projects
+9. Mini Projects
 
 
 🧑‍💻 Author
